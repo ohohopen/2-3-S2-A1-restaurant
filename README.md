@@ -27,6 +27,7 @@
 
 - 載入 express 套件做為開發框架
 - 載入 express.handlebars 做為網頁模板
+- 執行 express 並存入變數 app
 - 指定 handlebars 做為 view engine
 - 用 express.static 指定 public 做為連結 css、js 等檔案的資料夾
 - 指定 main 為模板頁
