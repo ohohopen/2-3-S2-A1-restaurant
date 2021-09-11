@@ -6,6 +6,7 @@
 
 - node.js 14.16.0
 - express 4.17.1
+- express-handlebars 5.3.3
 
 ## 安裝與執行步驟
 
