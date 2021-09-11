@@ -11,7 +11,7 @@
 
 - 下載此專案至本機
 - 終端機路徑指定此資料夾
-- 執行 npm install 下載 node_modules
+- 執行 npm install 下載 node_modules 等相關套件
 - 執行 npm run dev 啟動專案
 - 在瀏覽器鍵入 localhost:3000 即可
 
